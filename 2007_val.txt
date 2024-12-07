@@ -1,0 +1,365 @@
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00000_8.jpg 378,196,418,267,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00001_3.jpg 985,66,1040,230,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00002_8.jpg 380,185,427,271,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00003_5.jpg 1166,130,1227,271,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00016_5.jpg 1174,219,1216,264,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00005_4.jpg 274,172,310,262,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00017_3.jpg 995,196,1034,235,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00007_3.jpg 985,150,1046,226,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00018_7.jpg 892,211,929,265,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00018_8.jpg 587,226,648,267,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00019_8.jpg 663,234,708,268,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00008_8.jpg 380,159,428,271,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00009_5.jpg 1175,132,1226,265,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00020_8.jpg 691,241,743,276,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00021_1.jpg 612,0,741,267,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00010_7.jpg 284,87,328,254,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00022_8.jpg 695,242,734,270,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00023_5.jpg 1177,240,1210,265,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00023_7.jpg
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00024_8.jpg
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00026_1.jpg 613,82,751,266,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00026_7.jpg 903,238,937,264,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00031_7.jpg 902,239,942,264,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00035_8.jpg
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00046_1.jpg 631,108,740,262,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00048_2.jpg 2968,535,3096,722,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00051_1.jpg 620,55,740,263,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00052_2.jpg 2964,548,3094,722,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00062_2.jpg 2964,568,3089,724,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00075_2.jpg 2960,554,3091,735,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00086_2.jpg 2957,568,3093,725,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00090_1.jpg 621,86,740,264,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00093_1.jpg 631,97,765,255,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00101_1.jpg 636,126,741,264,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00101_2.jpg 2969,591,3094,715,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00102_2.jpg 2966,590,3097,718,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00106_1.jpg 638,142,744,266,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00111_2.jpg 2966,590,3100,716,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00127_2.jpg 2961,585,3101,715,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00132_2.jpg 2986,602,3095,702,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00133_2.jpg 2967,581,3092,710,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00148_2.jpg 2993,629,3088,708,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00155_2.jpg 2993,629,3088,708,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00175_2.jpg 2993,629,3088,708,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00187_2.jpg 2993,622,3088,709,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00189_2.jpg 2993,622,3088,709,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00190_2.jpg 2988,610,3120,730,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00196_2.jpg 2976,620,3097,715,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00208_2.jpg 2971,611,3111,729,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00214_2.jpg 2968,623,3102,725,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00216_2.jpg 2966,623,3109,722,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00222_2.jpg 2970,623,3116,710,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00226_2.jpg 2956,627,3118,704,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/00261_2.jpg 2968,613,3116,730,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1029_jpg.rf.887dc577d5911490ccc3e7e15bc08076.jpg 463,472,577,601,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1016_jpg.rf.3aeb36b4336aa3b7964b870a22c3f4b0.jpg 1,129,150,214,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1034_jpg.rf.1f52c4acaa247dd02f0dc05264a80272.jpg 433,553,518,630,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1026_jpg.rf.04858f0186d4cc9bce1ff0eedab3bda3.jpg 421,513,505,625,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1037_jpg.rf.cabb896afa06758fe2d1a4053a9ca5ba.jpg 383,526,518,631,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1042_jpg.rf.019be52b82e40b473073515eb1c0fa76.jpg 362,521,520,639,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1042_jpg.rf.c4a1acc875279d821d00c731690214a8.jpg 362,521,520,639,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1047_jpg.rf.cd7f020439007639fbd1e2ea4f485898.jpg 359,501,519,631,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1048_jpg.rf.12eff0f362f8b89d222525699ea3dec7.jpg 1,159,121,345,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1059_jpg.rf.eba6840f8cad7a70d3f03ae8cb0c59ed.jpg 341,498,521,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1050_jpg.rf.de264eb56833d8a38d63bf73047e5d8a.jpg 396,503,519,640,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1064_jpg.rf.a56ed8fa44104dea57cf04b8e34e903d.jpg 353,518,510,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1081_jpg.rf.98623264bf83b2f52bdfbc0821369f9a.jpg 342,513,506,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1082_jpg.rf.c86991ff523bc9daceb910c3b392d879.jpg 509,346,641,511,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1084_jpg.rf.13d7df5137f63650a21d324e1c99a1f8.jpg 361,543,516,637,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1084_jpg.rf.1c8bec236f941a02aa6ba37b6364bfa6.jpg 134,544,292,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1084_jpg.rf.f469438c9c1dfd080f09035cd829c825.jpg 361,543,516,637,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1070_jpg.rf.dee012858316e4601fe5b1d7e5d466fe.jpg 8,393,133,574,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1108_jpg.rf.e0606beaa59708989c112d8bc7445dfc.jpg 420,559,527,637,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1098_jpg.rf.e3e8d825a0bcda50a1ca1dc79fbf3e66.jpg 395,541,521,633,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1099_jpg.rf.9cc0a0e3591ed66c895d5bff20b9452a.jpg 409,549,515,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1105_jpg.rf.662264fa0bea200e577921dbb57890f6.jpg 398,552,512,626,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1108_jpg.rf.843240ccd3dd8d3e377ecde06b74c870.jpg 420,559,527,637,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1114_jpg.rf.d49d2cc215f8febe39b4d2fd77f25bc2.jpg 428,549,514,631,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1120_jpg.rf.58a92a49bbf9fc934999349d6adaf19f.jpg 148,594,254,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1137_jpg.rf.4c5a97ddbe52dcd1af39d4f9dcf6cd87.jpg 125,388,311,546,0 328,483,375,538,0 475,514,495,536,0 539,488,596,536,0 624,465,635,531,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_113_jpg.rf.79f18d06f351533db0cab26a881d8a03.jpg 37,251,328,403,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_112_jpg.rf.4da7355db54b0fc57a880b974d1d81b7.jpg 250,95,350,332,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1145_jpg.rf.6e3bb5849fe6732fd691ab279691542d.jpg 122,391,329,540,0 442,483,503,540,0 544,491,601,535,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1160_jpg.rf.8e8a7d5ba19981fd3f5ee8c82f9b1c1f.jpg 141,403,316,537,0 474,499,508,536,0 549,489,601,538,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1150_jpg.rf.a534aee9aedf6b74e3d05a9599bc9cbf.jpg 407,282,575,509,0 483,108,521,135,0 452,7,511,67,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1169_jpg.rf.503d5d8e944d4b9713655afaf7a7f4cf.jpg 130,420,330,538,0 442,509,507,542,0 545,493,593,537,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1191_jpg.rf.393c06fe726992d6ab749fa89d1015f8.jpg 25,174,407,566,0 110,1,162,108,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_117_jpg.rf.4dc25a7bb1a34cf50bc01a551e9f604f.jpg 226,134,348,348,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1195_jpg.rf.60f3b71b9b06111c97470a9ba479a2a4.jpg 207,232,515,570,0 74,541,148,584,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1196_jpg.rf.371e80331fecafa8a34f70f784c5c5bf.jpg 269,146,616,512,0 488,1,534,51,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1180_jpg.rf.b7235c93ba1eea6f0ca5a7fc34b7c8c8.jpg 199,207,416,414,0 124,426,469,550,0 516,522,600,561,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1207_jpg.rf.34ab40b707e04adf0dcab2d1a51eaa1b.jpg 59,84,426,421,0 81,540,113,606,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1218_jpg.rf.1201f87573acce54b0ebeabb0e3b9123.jpg 121,233,433,554,0 519,527,589,560,0 4,533,23,571,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1218_jpg.rf.38874283b18e787f2b81b28b8bc29cf7.jpg 121,233,433,554,0 519,527,589,560,0 4,533,23,571,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1208_jpg.rf.62e3650e4afe0694c58542b217292fe2.jpg 132,236,418,551,0 522,530,590,561,0 1,527,21,555,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1211_jpg.rf.fb234e3d1030179a59ce93f8e1f465f9.jpg 32,157,454,574,0 130,1,179,62,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1234_jpg.rf.92f7408ffb651d8355f9f5832b6e2500.jpg 538,430,633,641,0 6,406,204,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1224_jpg.rf.c0afa293de253735fa9d3cfc9cc1261b.jpg 35,535,179,641,0 7,368,97,464,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1237_jpg.rf.c4f9d17321a9948a1a2fbb84cc54d698.jpg 135,1,498,238,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1229_jpg.rf.62f91d2d3214cc8cfaeecd34aa7d6f8f.jpg 141,1,544,101,0 148,436,269,519,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1240_jpg.rf.a03d9cd4468828701105506c9830e22b.jpg 1,1,559,239,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1241_jpg.rf.18f52366545be4421b21d459d4ebed8b.jpg 164,410,513,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1242_jpg.rf.eac2fdc7552df083d025c01a334a06a1.jpg 13,311,372,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1232_jpg.rf.22b74d0ed6ffbd04cd52a03f6084ecb4.jpg 1,489,115,641,0 1,1,59,54,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1259_jpg.rf.012d340cc0677999fca51dc6af8fcf45.jpg 1,289,137,433,0 59,4,229,41,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1247_jpg.rf.3dcb699df5f4c9cd8c237469a2de55f6.jpg 287,381,353,459,0 532,382,641,590,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1248_jpg.rf.69bba7d46bf0a8166101b27e5b975774.jpg 1,39,141,189,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1252_jpg.rf.5727ad37d1aa4029dd110ea91120c0b7.jpg 2,425,137,636,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1252_jpg.rf.d9990f51dcb824f7b83c76fb079d04f0.jpg 50,523,289,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1269_jpg.rf.d2f8e1bf91804bfaa6b3a961fae0f193.jpg 33,1,390,237,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1254_jpg.rf.ee28e68a48b2dfe3f85a81a3ee46c0ed.jpg 432,284,641,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1271_jpg.rf.2f7b9e46213e7f6b5db27b0b116a9cb0.jpg 4,517,154,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1274_jpg.rf.19ceffe8038030d06bb5872bf6fd0ad4.jpg 65,291,468,617,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_127_jpg.rf.3fd5e390f48df664ada99e9355259b17.jpg 254,99,350,334,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1297_jpg.rf.41c28268a576c922d0bef2cb1eeb9f71.jpg 56,278,358,530,0 264,154,403,251,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1299_jpg.rf.345adb3276b24615ec8ef55b7d2b2776.jpg 7,496,52,540,0 148,275,325,539,0 374,240,480,368,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1286_jpg.rf.474ac972241550beaecdc388b1609e05.jpg 9,496,53,538,0 149,430,225,542,0 290,329,345,528,0 428,279,485,393,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1287_jpg.rf.a59a723c12f391002f25532540b0cfc7.jpg 43,554,94,602,0 68,389,187,475,0 88,239,343,366,0 274,156,419,233,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1300_jpg.rf.4c6055fad1556738dd55402caf7bed94.jpg 14,488,58,537,0 154,309,335,552,0 371,251,487,375,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1302_jpg.rf.c90d667a41b8bdca110d0d111b101009.jpg 2,491,57,536,0 142,315,333,528,0 386,188,467,370,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1317_jpg.rf.878777fff7bd5fccc2655d1a80a5166a.jpg 427,1,483,18,0 272,98,565,360,0 262,386,458,510,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1304_jpg.rf.598a475e5d4ba9a06d5a97b9c6ee22cd.jpg 12,497,48,534,0 141,293,346,545,0 394,217,460,380,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1305_jpg.rf.0e574091df10f0037398f52575321612.jpg 66,573,101,612,0 80,254,380,497,0 312,173,411,232,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1334_jpg.rf.23b01918ab4ff0cd64a4b684a03ecacc.jpg 39,519,77,550,0 149,381,172,468,0 201,439,329,559,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1354_jpg.rf.7c8c051675a6ffa6437d97abb6d11b1b.jpg 21,513,85,540,0 92,332,162,463,0 186,503,233,555,0 257,523,291,559,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1358_jpg.rf.d8410ae29483a559cc71b78bdc55d7d6.jpg 38,524,93,549,0 91,379,203,471,0 207,495,303,560,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1361_jpg.rf.4499d1b10b86ecbd2d68e6897c75a49b.jpg 40,525,87,546,0 104,378,145,470,0 202,505,302,562,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1384_jpg.rf.4fbb8842594ec2d2410e14e6ddf7e0fc.jpg 319,539,599,605,0 64,207,200,329,0 90,118,560,190,0 73,11,136,126,0 154,55,293,94,0 240,23,277,38,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1387_jpg.rf.9e53548e9f5c3fa7322e308b66a7e5e9.jpg 444,1,568,53,0 237,1,375,73,0 56,293,203,461,0 95,439,537,523,0 93,529,167,641,0 202,560,336,600,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1389_jpg.rf.66ed3162b81c65a28ebd194ee71a3c8d.jpg 508,192,626,428,0 503,29,558,104,0 228,514,366,638,0 54,121,215,604,0 57,595,179,641,0 41,404,100,577,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1409_jpg.rf.5947e0c656855f508bc9cecf8e3e1373.jpg 330,406,370,442,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1395_jpg.rf.26d570e70e1e36100490aedfe7227a83.jpg 52,241,85,320,0 338,471,641,553,0 465,78,505,461,0 550,325,575,461,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1395_jpg.rf.c6a80527cece4dd88a9b97ae94ef2fa8.jpg 52,241,85,320,0 338,471,641,553,0 465,78,505,461,0 550,325,575,461,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1396_jpg.rf.78b850ac705ac7fa1dfe6d2fde4b3e09.jpg 56,218,104,339,0 333,467,636,557,0 454,121,501,433,0 551,315,577,438,0 599,330,615,393,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1412_jpg.rf.694b6403ee926a480d3f0be35fed97c6.jpg 350,421,367,432,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1427_jpg.rf.160215d1681f19e397cab7f7c3db34e9.jpg 328,425,341,438,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1428_jpg.rf.b61691f8ba4748d0ab805ef6ba18d72f.jpg 204,366,221,398,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1444_jpg.rf.1e994d1b570d1089a550b0108856b92d.jpg 333,417,355,439,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1452_jpg.rf.034f95770b29dea3cc4bd01fa981bcdc.jpg 407,246,436,287,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1466_jpg.rf.4d0c6bee71377537cfe98ce5a13b0ffc.jpg 196,293,237,337,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1455_jpg.rf.88e3b9921fa908dba14d0765a62a486d.jpg 338,425,364,442,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1467_jpg.rf.9da126b198ac4508b9cbbad9c923a7f1.jpg 349,416,369,442,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1469_jpg.rf.610ace12a68d7d313dec76e29c4975cf.jpg 344,420,370,438,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1463_jpg.rf.262526eeffe8a49783bce2b69e946455.jpg 439,255,456,283,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1493_jpg.rf.587da5ff68dd606159a2f403a6a9bf69.jpg 353,424,367,440,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1498_jpg.rf.a70225cc23df04edada80d83fa5272f7.jpg 422,267,441,314,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1597_jpg.rf.e34c4ed1da1458770f8a677726b2e1d4.jpg 234,354,411,537,0 75,437,111,498,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1599_jpg.rf.0c0e2a310ee02f74e4fb7f3996f51c55.jpg 38,208,289,400,0 14,482,92,535,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1585_jpg.rf.618adc1109646e4a1662c2c129198a80.jpg 251,317,341,346,0 250,289,280,314,0 350,281,402,343,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1646_jpg.rf.25e62ec957f26cc0df2ea4ef2c981168.jpg 374,283,479,531,0 346,32,448,235,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1622_jpg.rf.10d4755b0f64ab170ec2e683388ae7a7.jpg 205,261,473,430,0 224,197,275,255,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1622_jpg.rf.da44022ca6920e33a513a6de798316c3.jpg 289,176,395,418,0 228,392,276,431,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1651_jpg.rf.77fa77728a7436f7199cb309c1ea3ed3.jpg 263,436,373,492,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1640_jpg.rf.839b9d74d78db0b7d0991a4871265347.jpg 306,379,406,550,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1657_jpg.rf.0ec122bb57bddb6dcbfc19de640e0037.jpg 317,358,427,446,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1680_jpg.rf.6983ede66a55b4985b49effcbbe71221.jpg 635,280,641,358,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1661_jpg.rf.c773cfb01d922db44b0ea7a201f78321.jpg 197,381,228,431,0 244,320,296,419,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1681_jpg.rf.050e635394c5e7349bacf708713c3619.jpg 185,2,303,61,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1666_jpg.rf.31f00d1dc45d43d1bf4f5931fad1e352.jpg 191,328,285,426,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1671_jpg.rf.80f88ca8695f56371d44670377d5897e.jpg 159,265,211,401,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1701_jpg.rf.55a0ee63daa4110a4f99c69bfaa06251.jpg 89,201,421,450,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1702_jpg.rf.aff2ccc9dcf49f762a8c0a9a1ee4330e.jpg 225,96,384,395,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1689_jpg.rf.e2e0d1a69bf82cf437af84be3486cbdd.jpg 220,234,291,360,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1704_jpg.rf.0e34dbe17f3521c03861924247db66ea.jpg 214,50,439,375,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1706_jpg.rf.4843a0c19676dfa59db28373aa9ed2f9.jpg 186,84,339,374,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1697_jpg.rf.eeb5e0dd8d7f80e4165d0b2fa31f1e2a.jpg 159,93,415,406,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1698_jpg.rf.36417b075941eb9d5f4f83ed066d7091.jpg 118,200,426,455,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1714_jpg.rf.ca13431d92fd7835c74a01abba0eea54.jpg 179,240,259,315,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_169_jpg.rf.9135affa245fe1e4aa5d1c2a5300db84.jpg 100,138,147,192,0 152,286,187,325,0 131,332,163,362,0 133,408,158,426,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1717_jpg.rf.7833dd76163227674cb521d2eac547af.jpg 173,217,261,306,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1719_jpg.rf.b0b9c248951c08712f5ff9497b8e0756.jpg 195,251,258,345,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1720_jpg.rf.15dddc0574dfa5f1eb00306d83ebad91.jpg 201,249,269,365,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1721_jpg.rf.e8d5b45146a9b982c7cb9aff291c8737.jpg 254,361,352,447,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1744_jpg.rf.4d8bfdb27803358e579208f1b2d3108c.jpg 51,355,527,588,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1746_jpg.rf.76aceb84b4707818d10b58ff9ebb0635.jpg 108,92,292,545,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1760_jpg.rf.13cb07ba409047e626d456e94e009a56.jpg 1,220,81,401,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1787_jpg.rf.5d4ac4d49ef2fe527ba6b28909c78d7e.jpg 322,268,389,307,0 209,222,303,386,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1789_jpg.rf.d6b73af3ec55bc0f1f8c052b5d904af4.jpg 203,222,301,408,0 348,262,436,313,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1828_jpg.rf.3c640f1b502464e1129fcc9a6331f6af.jpg 385,265,522,318,0 161,149,326,476,0 347,54,462,165,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1818_jpg.rf.8dc239ad7730e340f2b4f0b0a76afb61.jpg 361,75,459,172,0 464,290,489,312,0 174,176,330,495,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1819_jpg.rf.15b71acab0e005102607ed2db45a1cee.jpg 166,159,325,478,0 364,65,447,179,0 419,275,503,314,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_181_jpg.rf.a9a720d803d6cbd4f52230a67b119a6f.jpg 440,322,491,386,0 448,250,494,290,0 449,502,526,562,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1832_jpg.rf.6a798bf156cac319d6f8d6bebbe96528.jpg 126,247,240,301,0 236,1,316,133,0 249,175,483,521,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1824_jpg.rf.ce2320a60e1bfd6d1725df0b5d23aa14.jpg 164,145,362,495,0 345,40,445,142,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1842_jpg.rf.3d1df1ca39eb2616ca343f432057124c.jpg 132,153,408,377,0 362,367,445,460,0 491,304,604,410,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1858_jpg.rf.f639fb7215af08ca69c1bc9a55d91b11.jpg 319,31,423,143,0 141,185,292,440,0 350,239,453,283,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1861_jpg.rf.d8715c8c8dd16860bcb5c7d19de6e5cd.jpg 1,193,114,322,0 196,145,259,274,0 110,271,461,516,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1864_jpg.rf.ceabf289d75789a681a214b27b9b6817.jpg 331,11,446,123,0 377,229,439,273,0 131,138,350,468,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1849_jpg.rf.21a37f6b4208d5e28684c710b6c2cc98.jpg 310,173,493,436,0 186,17,309,103,0 188,214,259,269,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1865_jpg.rf.6d0c099f2d62304c721eb7fdd7281a88.jpg 314,20,428,143,0 117,193,331,471,0 358,235,415,279,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1865_jpg.rf.e43e6fcd4d50b192277bf19bec731bfe.jpg 506,269,641,405,0 137,86,456,346,0 370,344,423,409,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1865_jpg.rf.f165a01460afc110255354da764f8456.jpg 1,306,102,441,0 127,57,456,321,0 198,342,252,410,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1868_jpg.rf.fb97caf6e35c380c6e5633a7bbd80de0.jpg 317,56,425,151,0 347,217,421,286,0 123,137,289,438,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_186_jpg.rf.3a1df5ed21e3dd20f757c14a8b78e885.jpg 212,452,237,487,0 248,466,279,496,0 314,409,352,484,0 479,430,524,490,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1884_jpg.rf.68c809223b63127ab67d40ca7e204e37.jpg 168,42,474,315,0 318,320,400,458,0 482,311,636,491,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1878_jpg.rf.9301515e849c10a998d881db862cd782.jpg 350,212,417,271,0 305,26,442,138,0 117,126,303,437,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1893_jpg.rf.a6bc3d2f74465e5c66e34cc9eb99a01c.jpg 310,197,447,244,0 288,10,398,98,0 91,145,303,414,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1896_jpg.rf.a2f3305f1a4cc807a6c697ebed8d2b69.jpg 314,170,429,232,0 77,142,305,426,0 322,1,401,107,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_190_jpg.rf.efe9fb000e499df4055f7c1c47f9cd11.jpg 252,459,273,494,0 315,438,357,483,0 482,436,527,482,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_190_jpg.rf.f283747e7e60deafe181e5b3320f9408.jpg 252,459,273,494,0 315,438,357,483,0 482,436,527,482,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_189_jpg.rf.b92bec23bef67a2baf533bacf5e4c92a.jpg 250,454,274,486,0 316,425,367,481,0 480,445,530,480,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_18_jpg.rf.0d8902fb94f9a83124daac3a688a59f7.jpg 255,134,360,341,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_18_jpg.rf.e59c033e0b2f35aee31eec2530830ada.jpg 255,134,360,341,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1919_jpg.rf.8986ec80a1b9aa54f2c368e76911c7c6.jpg 97,218,312,481,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1920_jpg.rf.af86d0e7a4469f76246b6e8819afd74d.jpg 81,179,292,495,0 316,273,372,320,0 330,109,409,176,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1943_jpg.rf.342335a83b4fc4f4648ffe561b175913.jpg 181,270,325,595,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1944_jpg.rf.70479c33a35bbad58685cc1a5c74e222.jpg 189,270,328,579,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_194_jpg.rf.f9f2b66a620bb8bed1e398a6d577803b.jpg 290,406,396,503,0 467,457,522,514,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1950_jpg.rf.8a25d77ae3ecc6a28138f9fb5a1b5581.jpg 251,161,607,347,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1957_jpg.rf.1ebba6de455f63056b51abe5df3b8ade.jpg 180,218,314,589,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1957_jpg.rf.a384386733913593ae15e4435b82857b.jpg 180,218,314,589,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1959_jpg.rf.8da878b957a3cfae8b52f4ea6827e3b8.jpg 172,176,328,582,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1959_jpg.rf.efd25bdec430e4bf494f40d7b676f7ea.jpg 144,118,617,366,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1960_jpg.rf.7e0497491ec42a6b9c2e11a0e728c3fe.jpg 115,172,347,607,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1962_jpg.rf.3cddeb131caa7e12ba7fc347d3ae9c13.jpg 170,250,317,579,0 223,95,303,215,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1964_jpg.rf.38eae8a0f4a2c27a622a6c3ae8d4d947.jpg 173,183,317,575,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1981_jpg.rf.99430a2379c3234615267a7533aab47a.jpg 178,263,334,587,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1982_jpg.rf.0a84b821853e0733ac6cf3ff9cb5210b.jpg 175,200,328,590,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1982_jpg.rf.c0c24956c0f6f1ffbab3780f89fc997d.jpg 178,293,597,516,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2007_jpg.rf.9c76b071af775c0f6b9c92eafbeb7743.jpg 178,247,334,583,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_1994_jpg.rf.3e22278e4628d869f421645f5b2eb9bb.jpg 195,270,635,524,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2008_jpg.rf.d8d7771f7512eac7a11d171c213da1cb.jpg 249,241,620,475,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2023_jpg.rf.b6eabb154988964bd891a0e67ebcdf86.jpg 250,7,320,92,0 172,181,345,587,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2035_jpg.rf.d8ad8e583b19777976cf751b22ee50e9.jpg 33,268,456,504,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2038_jpg.rf.a6af1f28ce2f16a62b19546ac4a4b91a.jpg 158,183,343,589,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2039_jpg.rf.5eba8536b564ec581800a1c2a887a4ef.jpg 42,255,593,546,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_204_jpg.rf.d915e64d6df72a0f656894d7c7085615.jpg 308,369,407,486,0 256,431,301,486,0 482,441,527,480,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_203_jpg.rf.9b448a363ee82d20c92f372d2946e74c.jpg 248,437,304,497,0 308,374,402,484,0 481,442,524,487,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2040_jpg.rf.3e252abd2d5e2418d9811bab85851030.jpg 20,120,515,377,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2040_jpg.rf.e93a8e34a545e2977694cfd3cffd4ec8.jpg 172,156,336,590,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2054_jpg.rf.0c4ea5685d2fcbce3436eb714965cb56.jpg 47,148,629,356,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2047_jpg.rf.cef4df5b07a2eef105d2cfe85806f7d0.jpg 1,158,600,369,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2048_jpg.rf.4821956f62fac77a73463ab2cfee22df.jpg 178,143,339,582,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2066_jpg.rf.192790771400dce412f57fbcd64c54aa.jpg 288,127,476,598,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2077_jpg.rf.efc5888ea2080385c289c2e7254a1e17.jpg 164,120,348,592,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2115_jpg.rf.a0bce95cfbfcf48c9d735ddaf87c67f6.jpg 44,94,540,389,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2104_jpg.rf.ed2df41250f21077f8b140f83e1fe0d5.jpg 118,44,411,618,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2121_jpg.rf.ba90157d76cfca2b3073d935c496fe66.jpg 139,114,362,592,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2108_jpg.rf.5991fdaef946c30e4ccb84a74f782559.jpg 5,235,513,539,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_2124_jpg.rf.dc4cd1063de5fff78d3f283146b4289b.jpg 64,152,498,359,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_241_jpg.rf.f0a42141556e0f11c55f08efafa144e8.jpg 283,23,325,94,0 264,162,340,493,0 194,231,248,429,0 306,521,421,547,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_213_jpg.rf.580a481c56cd4a7f7ccf829b75561f37.jpg 307,357,400,489,0 482,448,525,485,0 258,418,283,494,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_213_jpg.rf.dd0a721331134c484247472d7c678e14.jpg 307,357,400,489,0 482,448,525,485,0 258,418,283,494,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_218_jpg.rf.31bb0e6619db072309bb765e193d04e6.jpg 253,433,300,504,0 309,363,430,494,0 477,444,538,490,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_237_jpg.rf.19febb5110b48ed8afc6863be4671bd4.jpg 224,126,355,465,0 282,463,421,580,0 219,2,303,70,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_237_jpg.rf.def5db460127ef17033ad141b0d15c26.jpg 260,159,357,459,0 290,467,409,565,0 263,9,335,102,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_239_jpg.rf.32e8d725cd222135ddc4b8933e0b9700.jpg 281,12,343,85,0 250,168,353,244,0 202,272,441,551,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_23_jpg.rf.e29169ae221c5f949a27c27d6089c657.jpg 240,134,345,337,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_243_jpg.rf.b9af8ad6d002a37b784448a69cd3a65a.jpg 202,156,339,498,0 263,9,333,87,0 325,502,403,553,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_247_jpg.rf.99a61a63847aa57f29cc375bf5e0afb6.jpg 141,238,526,447,0 521,179,569,252,0 1,321,92,400,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_261_jpg.rf.271e6d4bc728f3d0d21da80c7f5c52f7.jpg 141,149,524,369,0 83,271,119,369,0 244,1,564,105,0 552,261,641,398,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_250_jpg.rf.04154434ed7f3b54eb16bab79ed817b3.jpg 198,157,347,493,0 266,15,335,95,0 329,503,416,555,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_262_jpg.rf.b325b64aa66d16995c21a5586533fff8.jpg 113,256,516,473,0 79,202,118,284,0 566,318,641,405,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_254_jpg.rf.14d8af1670f7049fd1b683cb42fbea29.jpg 271,16,337,97,0 198,158,373,503,0 325,508,424,557,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_265_jpg.rf.a5c4d009906438c1d02bf6d0a1738f26.jpg 198,160,343,480,0 281,487,398,546,0 263,20,335,98,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_272_jpg.rf.0fd885a9dfe5e5195ce5b7fcce606ce6.jpg 70,476,198,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_30_jpg.rf.c8ede9493f4ce883feac19f117534144.jpg 249,94,348,332,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_276_jpg.rf.46cf58109bea022e533984e4855d3119.jpg 382,434,470,484,0 355,546,641,641,0 93,430,198,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_334_jpg.rf.68dfc43bb2fc5d95704b7eafa098be38.jpg 152,445,219,620,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_279_jpg.rf.a204f37db0d25a5b5a6df518eeb039e3.jpg 151,148,209,364,0 1,1,79,283,0 2,538,97,641,0 125,469,167,564,0 1,336,38,409,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_338_jpg.rf.d201beb0e4eedf855ad4747f0b9ddd3e.jpg 154,381,221,614,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_340_jpg.rf.b630cb01385843e670c79a0ca3719296.jpg 141,441,226,630,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_344_jpg.rf.3fb358d6baaad3129560634cf5cccbe6.jpg 398,157,641,301,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_354_jpg.rf.0a580a911ab9de6b531c1479adf73eeb.jpg 124,322,253,634,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_345_jpg.rf.74864c22c0efb85caa0f002ba3a1a3e8.jpg 136,415,232,623,0 211,525,277,597,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_381_jpg.rf.7252b92a056643c4f293fce28e24daf3.jpg 104,159,305,634,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_385_jpg.rf.02fad54dc5a212651456b56fd40424b6.jpg 153,124,310,638,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_388_jpg.rf.f2180eefc2dca496785fa47f4e625023.jpg 164,172,317,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_371_jpg.rf.9464721c9e0e9ab24d8b44ad1dae0919.jpg 129,172,273,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_418_jpg.rf.ee3c614c95bcce43f9c2318239b52016.jpg 76,425,266,641,0 150,255,254,441,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_408_jpg.rf.aeefc9fead74edbe449bb89115b6769a.jpg 232,384,641,565,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_409_jpg.rf.e11c4ef824b55f1257f47ceb9f7e6473.jpg 168,370,636,530,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_398_jpg.rf.f37842136b8bf704519c08d9bb6f334b.jpg 160,47,345,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_412_jpg.rf.50c4b932456cc2c58541e82d69c64b27.jpg 129,204,267,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_413_jpg.rf.3ccea8b231fcdb7d4bf6568a1ccc27aa.jpg 130,207,280,641,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_443_jpg.rf.b616013359ab7ec5a5b3b2d783aa7191.jpg 126,1,565,378,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_419_jpg.rf.a7f9f85426113d91150622fa0c0a0ea8.jpg 162,38,626,257,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_433_jpg.rf.d8f3531c61a7d611866bb68b16453399.jpg 1,1,455,342,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_420_jpg.rf.5ca92c6e85a9fa15c1a543e78d71542c.jpg 124,346,301,641,0 118,193,244,286,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_435_jpg.rf.2d41c47d7249bbe8c08625a7c970bd92.jpg 39,25,458,305,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_438_jpg.rf.686c1cee048aee0d5ec341efb36b0667.jpg 81,2,457,329,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_45_jpg.rf.2b535128d6394840ca5b4338c2db1640.jpg 254,87,365,334,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_445_jpg.rf.5b80a9f0047cdca385adeac51ca03403.jpg 92,129,223,276,0 119,9,379,203,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_450_jpg.rf.314a3a1a4b3f6f4314d8f2144318e599.jpg 28,17,449,348,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_454_jpg.rf.377f1c38c10237e3c9fe10a79a266baf.jpg 57,16,425,305,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_477_jpg.rf.ef10de94b6c2d01966c7bb3e7d036407.jpg 439,18,641,268,0 290,123,550,511,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_479_jpg.rf.182612c4d1749c6a24be94f71a3af50d.jpg 108,7,255,292,0 186,158,455,277,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_503_jpg.rf.30efa31c5d989c18071420141e578ba6.jpg 92,52,430,310,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_506_jpg.rf.0d788e0d2b4e5b54274ae54db5346dca.jpg 74,128,573,544,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_522_jpg.rf.f47f924f2d4685a73aad58cb1b26e702.jpg 170,76,528,472,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_510_jpg.rf.5164d6aa98b4a90efabb1b4302e2dcc1.jpg 170,55,493,473,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_555_jpg.rf.6bbe577fd65f0954b30a1b6dcc7eec2b.jpg 157,49,534,485,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_538_jpg.rf.535c23b9c8415733f6cb617b6ba9bc7f.jpg 157,37,528,458,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_539_jpg.rf.c2e9f769210d12455cfb4981a72abe9f.jpg 148,42,484,465,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_559_jpg.rf.de584ce9097372a6b981ce43224a6996.jpg 161,42,525,489,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_564_jpg.rf.6018430e5772a3ec7cf5c49f5f749261.jpg 110,44,554,541,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_564_jpg.rf.6496c7ad4a572a6affd37551e8f237c4.jpg 152,60,528,485,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_57_jpg.rf.9729418454d300cbcf136c7c94fa65fc.jpg 246,93,365,325,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_581_jpg.rf.c8c7b0aa5f65d9956d44a585c251065f.jpg 104,36,641,572,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_87_jpg.rf.06c258e80dbff1ef3aff144ca627c628.jpg 244,92,352,342,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_69_jpg.rf.9fc4f2089dd8a9072a56fc4a58839e83.jpg 259,44,354,332,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_585_jpg.rf.1fa4511ebbe8617280e9a7345f57ddf1.jpg 129,65,543,487,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_69_jpg.rf.9d9086acc7e56b32149382b4284e716c.jpg 18,296,334,434,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_58_jpg.rf.2d502b102f35006ea7aac3c38d256a40.jpg 82,259,327,379,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_78_jpg.rf.64293551f6d9fff94ff3e3c539ed745f.jpg 244,129,347,334,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_86_jpg.rf.c42f129a479d14226833fe816cbd03af.jpg 249,113,361,340,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_69_jpg.rf.288b915feafdd04b98910532221b2543.jpg 227,19,367,341,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0012_jpg.rf.6424512e80293c823156069482d714d7.jpg 220,274,253,344,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0017_jpg.rf.c4d2a1a4537e89873e107e24f57c5b14.jpg 379,285,452,336,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_92_jpg.rf.89bd2b66e02525d58b56e0cc6247afe0.jpg 306,273,562,414,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0018_jpg.rf.66c638fe9eb53bd70296b640260baa2d.jpg 192,301,260,344,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0020_jpg.rf.bcc2c7b7aa8bed830a894bd2a0ac33b5.jpg 287,213,331,270,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_98_jpg.rf.4a6488933b435d03d756cd999698b2c7.jpg 247,91,367,334,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/Img_98_jpg.rf.c5925106b616958103454afa15d23f26.jpg 44,221,334,412,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0026_jpg.rf.d9373dba39cf49c91c6fd268f0792bc2.jpg 327,367,359,428,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0001_jpg.rf.fbeacf104b15595c552a311c982220e5.jpg 277,172,344,265,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0034_jpg.rf.0dc1cb44ce33b712b5183b1f899a92e7.jpg 229,317,288,348,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0039_jpg.rf.463090951fa401f4a1a6305cc1bace11.jpg 245,312,306,346,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0062_jpg.rf.25fd5012707531c33f9aad375def7599.jpg 243,295,316,368,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0064_jpg.rf.584c7d1941ac918b6287b150021a5dbb.jpg 253,330,325,402,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0044_jpg.rf.b035dfa512ef3bb7e72c160333eb5839.jpg 312,308,365,341,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0047_jpg.rf.505b0a65a18b28b9c4f1d467c4107e11.jpg 280,243,323,291,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0074_jpg.rf.a2ab64e374766f5a0f6f92e1c595a224.jpg 238,205,309,261,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0095_jpg.rf.5ee8bb12570f5f8d48f2ab99dec0a77b.jpg 222,317,288,372,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0098_jpg.rf.1c6474b60160fc5b13b03a646bdde149.jpg 239,317,274,388,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0099_jpg.rf.434c0717625813471181d87bd134f1fb.jpg 237,333,282,389,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0099_jpg.rf.ee3591910481d9328bb096dcc19c064f.jpg 313,212,382,273,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0080_jpg.rf.6c9381b095f1930969b1254990b6be18.jpg 228,314,273,383,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0108_jpg.rf.aa9115e2b8e8df3b7169935770198f16.jpg 251,320,296,391,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0109_jpg.rf.1627d6df85d79a52204b8ac96e6ab805.jpg 257,334,305,390,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0136_jpg.rf.97a199caa37048e1fbbf90038e84d630.jpg 280,311,346,395,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0148_jpg.rf.fe01c2c28efaaaf03635bec7051f7f6a.jpg 301,301,354,364,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0149_jpg.rf.c408b186376bf6ffd4b09948894cb47a.jpg 295,309,341,364,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0155_jpg.rf.12ebf7c81ba84607dda37ba86113bb1b.jpg 293,253,367,345,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0181_jpg.rf.1035614d10d7f15725314613674f6709.jpg 294,261,316,302,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0255_jpg.rf.099dfd2dadf6c1d5ccae51fab0b0620a.jpg 283,246,353,345,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0256_jpg.rf.a07b6ce3f90a7bbcbe806e0e6e4e276d.jpg 294,269,385,345,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0260_jpg.rf.9244a27cd2688006228e311f400bb7d7.jpg 302,293,399,386,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0295_jpg.rf.b0126c75ec01241a4c3c0dacdd292967.jpg 315,320,368,374,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0324_jpg.rf.b608a1c46c9d82f914d5618d18ea2f85.jpg 276,252,344,319,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0299_jpg.rf.ea45cffa7c3e61373182d2678edf4daa.jpg 240,263,337,363,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0306_jpg.rf.9fc5a154666ace5390137d66d73f78d5.jpg 276,316,394,365,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0360_jpg.rf.7b686db097175e46f6a7ff01319e7df0.jpg 247,305,309,406,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0354_jpg.rf.3f7949a56aacfbfa1591442665bf3394.jpg 247,308,329,363,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0377_jpg.rf.60cb94db6baa2924213c530d00c01293.jpg 249,282,312,367,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0413_jpg.rf.603cf854a5907874b96b72fe1c12b7e2.jpg 383,329,473,382,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0389_jpg.rf.ab2465567c2d98dbafb6ba6464f9bf03.jpg 426,337,482,396,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0397_jpg.rf.cb4e0e6fd085dfee4b03a8d464d012da.jpg 411,343,477,402,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0400_jpg.rf.cdd2a2c1504368e1510cbd8701d2101e.jpg 412,333,470,372,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0464_jpg.rf.7ab81e6d1a8c13d56c5e6ce41f01f09a.jpg 315,565,376,612,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0445_jpg.rf.f4c1e804be515503d33ff1e8964cd52f.jpg 43,319,190,427,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0470_jpg.rf.cda39bb899eec7cd68d751892492aa25.jpg 486,291,564,341,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0452_jpg.rf.36213749c30d959b32629051b6a9eaa9.jpg 292,358,383,415,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0474_jpg.rf.bf78c85b1b2e6d081803eae02f13833a.jpg 430,303,468,333,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0454_jpg.rf.04e37d288d7460ee524447de494588a8.jpg 361,363,464,413,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0455_jpg.rf.421b9f8c4ec13220aad28b28822097fe.jpg 392,361,492,414,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0485_jpg.rf.4e01ec2a3a6dd30bf7ba54c53995270e.jpg 285,268,350,331,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0505_jpg.rf.af46e7c5ce1d32cea859d13ae526d154.jpg 277,295,321,353,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0548_jpg.rf.64c7c64ce7dc8fc479b6381d0af34384.jpg 252,260,289,295,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0534_jpg.rf.68e8c01422e76b026162edf2b35934e4.jpg 291,311,339,353,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0556_jpg.rf.51b79f7bf6342f97e2348103655f79dd.jpg 347,258,384,292,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0563_jpg.rf.30bb44727d2371304eeb0aa11825d522.jpg 353,240,378,270,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0563_jpg.rf.5d80fbaeb9a5935e0a6bbb983fe0b2c5.jpg 366,252,400,281,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0564_jpg.rf.86a77cb75759c3d3d547b2a916b4c2e8.jpg 253,360,270,372,0
+/root/autodl-tmp/haichong/YOLOv8-Magic-8.3.12/yolov8-pytorch-master/VOCdevkit/VOC2007/JPEGImages/frame45_0573_jpg.rf.4940854cd82462b891a433006b032508.jpg 271,235,284,244,0

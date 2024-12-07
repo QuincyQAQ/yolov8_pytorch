@@ -1,0 +1,21 @@
+<annotation>
+  <folder>E:\Project\ChinaOil\fire_dataset\fire_video\Annotations</folder>
+  <filename>00059_1.jpg</filename>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Fire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>632</xmin>
+      <ymin>117</ymin>
+      <xmax>741</xmax>
+      <ymax>263</ymax>
+    </bndbox>
+  </object>
+</annotation>

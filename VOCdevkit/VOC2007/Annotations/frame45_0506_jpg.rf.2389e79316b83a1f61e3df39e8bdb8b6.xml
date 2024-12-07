@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>frame45_0506_jpg.rf.2389e79316b83a1f61e3df39e8bdb8b6.jpg</filename>
+	<path>frame45_0506_jpg.rf.2389e79316b83a1f61e3df39e8bdb8b6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>279</xmin>
+			<xmax>321</xmax>
+			<ymin>294</ymin>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>
