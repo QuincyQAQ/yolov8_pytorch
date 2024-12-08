@@ -4,10 +4,57 @@ import xml.etree.ElementTree as ET
 import os
 import shutil
 from PIL import Image
-
 import numpy as np
-
 from utils.utils import get_classes
+
+
+# 读取文件并处理每一行
+def process_line(line):
+    parts = line.strip().split(' ')
+    image_path = parts[0]  # 图片路径
+    coordinates = parts[1:]  # 坐标信息
+    
+    # 获取图片的宽度和高度
+    img = Image.open(image_path)
+    width, height = img.size
+    
+    result = []
+    for coordinate in coordinates:
+        # 拆分标注框的坐标，并转换为整数
+        coords = coordinate.split(',')
+        x = int(coords[0])
+        y = int(coords[1])
+        w = int(coords[2]) - x  # 宽度 = xmax - xmin
+        h = int(coords[3]) - y  # 高度 = ymax - ymin
+        
+        # 计算归一化坐标
+        normalized_xmin = x / width
+        normalized_ymin = y / height
+        normalized_xmax = (x + w) / width
+        normalized_ymax = (y + h) / height
+        
+        result.append(f"0 {normalized_xmin} {normalized_ymin} {normalized_xmax} {normalized_ymax}")
+    
+    return result
+
+# 主处理函数
+def process_file(input_file, output_dir):
+    with open(input_file, 'r') as f:
+        lines = f.readlines()
+    
+    for line in lines:
+        result = process_line(line)
+        
+        # 获取图片名称并创建输出文件路径
+        image_path = line.strip().split(' ')[0]
+        image_name = os.path.basename(image_path).replace('.jpg', '.txt')
+        output_file = os.path.join(output_dir, image_name)
+        
+        # 将结果写入文件
+        with open(output_file, 'w') as out_f:
+            for item in result:
+                out_f.write(item + '\n')
+
 
 #--------------------------------------------------------------------------------------------------------------------------------#
 #   annotation_mode用于指定该文件运行时计算的内容
@@ -221,3 +268,22 @@ if __name__ == "__main__":
             print("The following files are missing:")
             for missing in missing_files:
                 print(missing)
+
+
+# 输入文件路径和输出目录
+input_file = '2007_val.txt'  # 输入文件
+output_dir = 'output_validation_results/annotations'  # 输出目录
+
+# 创建目标文件夹（如果不存在）
+os.makedirs(output_dir, exist_ok=True)
+
+# 清空目标文件夹中的内容
+for file in os.listdir(output_dir):
+    file_path = os.path.join(output_dir, file)
+    if os.path.isfile(file_path):
+        os.remove(file_path)
+    elif os.path.isdir(file_path):
+        shutil.rmtree(file_path)
+
+# 处理文件
+process_file(input_file, output_dir)
