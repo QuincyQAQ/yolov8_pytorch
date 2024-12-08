@@ -17,7 +17,6 @@ def iou(box1, box2):
     union_area = box1_area + box2_area - inter_area
     return inter_area / union_area if union_area != 0 else 0
 
-
 # 读取并解析 YOLO 格式的 txt 文件
 def read_boxes(file_path):
     boxes = []
@@ -33,12 +32,7 @@ def read_boxes(file_path):
     return boxes
 
 
-# 计算每个文件的匹配情况
-import numpy as np
-import os
-
-
-def calculate_map(detection_dir, annotations_dir, iou_threshold=0.5):
+def calculate_map_and_pa(detection_dir, annotations_dir, iou_threshold=0.5):
     detection_files = sorted(os.listdir(detection_dir))
     annotation_files = sorted(os.listdir(annotations_dir))
 
@@ -63,6 +57,12 @@ def calculate_map(detection_dir, annotations_dir, iou_threshold=0.5):
     true_positives = {}  # 动态字典，按实际标签存储
     false_positives = {}
     total_annotations = {}
+
+    # PA相关数据统计
+    tp_total = 0  # True Positive 总数
+    fp_total = 0  # False Positive 总数
+    fn_total = 0  # False Negative 总数
+    tn_total = 0  # True Negative 总数
 
     # 遍历所有检测结果，计算 True Positives 和 False Positives
     for detections, annotations in zip(all_detections, all_annotations):
@@ -90,9 +90,32 @@ def calculate_map(detection_dir, annotations_dir, iou_threshold=0.5):
             if matched:
                 true_positives[cls].append(1)
                 false_positives[cls].append(0)
+                tp_total += 1
             else:
                 true_positives[cls].append(0)
                 false_positives[cls].append(1)
+                fp_total += 1
+
+        # 未匹配的标注框为 False Negative
+        for ann in annotations:
+            ann_cls, ann_x, ann_y, ann_w, ann_h = ann
+            matched = False
+            for det in detections:
+                det_cls, det_x, det_y, det_w, det_h = det
+                if ann_cls == det_cls:
+                    iou_score = iou([det_x, det_y, det_w, det_h], [ann_x, ann_y, ann_w, ann_h])
+                    if iou_score >= iou_threshold:
+                        matched = True
+                        break
+            if not matched:
+                fn_total += 1
+
+    # 计算 True Negative：总样本减去已统计的 TP, FP, FN
+    total_samples = sum([len(dets) + len(anns) for dets, anns in zip(all_detections, all_annotations)])
+    tn_total = total_samples - (tp_total + fp_total + fn_total)
+
+    # PA 准确率计算
+    pa_accuracy = (tp_total + tn_total) / (tp_total + fp_total + tn_total + fn_total) if total_samples > 0 else 0
 
     # 计算每个类别的Precision-Recall曲线
     ap_per_class = {}
@@ -113,15 +136,17 @@ def calculate_map(detection_dir, annotations_dir, iou_threshold=0.5):
     # 计算mAP
     mAP = np.mean(list(ap_per_class.values()))
 
-    return mAP, precision_per_class, recall_per_class
+    return mAP, precision_per_class, recall_per_class, pa_accuracy
 
 
+            
+            
 def generate_heatmaps_from_folder(dir_origin_path, output_folder, yolo_model):
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
-
+    
     image_files = [f for f in os.listdir(dir_origin_path) if f.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp'))]
-
+    
     for image_file in image_files:
         image_path = os.path.join(dir_origin_path, image_file)
         heatmap_save_path = os.path.join(output_folder, image_file.replace('.', '_heatmap.'))
@@ -130,7 +155,7 @@ def generate_heatmaps_from_folder(dir_origin_path, output_folder, yolo_model):
         image = Image.open(image_path)
         # 将PIL图像转换为NumPy数组
         image_np = np.array(image)
-
+        
         print(f"生成热力图: {image_file}")
         # 传入转换后的NumPy数组
         yolo_model.detect_heatmap(image_np, heatmap_save_path)
